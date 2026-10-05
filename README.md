@@ -22,7 +22,7 @@ flowchart TD
     D --> E["New resume saved to Google Drive<br/>Updated resume link saved to the sheet"]
 ```
 
-This README covers everything up through the last box — a tailored resume saved to Drive with its link written back to your sheet. What you do with that tailored resume (apply, track confirmation, etc.) is up to you from there.
+This README covers everything up through the last box — a tailored resume saved to Drive with its link written back to your sheet. Feel free to get more creative from here - things like tracking your application, updating the google sheet if applied or not, refining the logic to remove potential duplicates (and more).
 
 ## What you'll have by the end
 
