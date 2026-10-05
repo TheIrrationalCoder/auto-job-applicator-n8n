@@ -3,6 +3,8 @@ A free, no-code n8n workflow that automates the time-consuming parts of job hunt
 
 Built as a companion to the **Bottomline with Aditya** YouTube video — watch the video first, then use this README to build it yourself, step by step.
 
+Link to Video: Go to [console.cloud.google.com](https://console.cloud.google.com) <Change>
+
 ## Why this is semi-automated, not fully automated
 
 LinkedIn (and most job portals) explicitly prohibit bots that scrape pages or automate logins/actions in their User Agreement, and actively detect and ban accounts that try. So this project draws a clear line:
