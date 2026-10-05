@@ -32,6 +32,8 @@ This README covers everything up through the last box — a tailored resume save
 - **Workflow 2 — Match & Score:** a bookmarkable webpage where you paste a job description and get an instant fit score, missing skills, and resume suggestions
 - **Workflow 3 — Tailor & Save:** a bookmarkable webpage where you paste a job link for jobs you've decided to apply to, and get a tailored resume copy saved to Google Drive
 
+- Workflows 2 and 3 can be combined (as shown in the YouTube video)
+
 ---
 
 ## Prerequisites
